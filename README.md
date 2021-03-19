@@ -1,4 +1,4 @@
-## Hola! Soy Marcos Gomez<img align="center" alt="Mrgd-hack" height="60" width="80" src="https://c.tenor.com/Nr2EPwsYNVsAAAAj/microsoft-hackathon.gif">
+## Hola! Soy Marcos Gomez  <img align="center" alt="Mrgd-hack" height="60" width="100" src="https://c.tenor.com/Nr2EPwsYNVsAAAAj/microsoft-hackathon.gif">
 <a href="https://github.com/MarcosRGD">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcosRGD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcosRGD&layout=compact&langs_count=8&theme=dark"/>
