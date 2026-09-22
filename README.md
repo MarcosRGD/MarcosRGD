@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:tr1sk33l@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:tr1sk33l@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-%236D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosrgomezd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://nexutrek.com" target="_blank"><img src="https://img.shields.io/badge/-NexuTrek_Portfolio-%23000000?style=for-the-badge&logo=googlechrome&logoColor=00B4D8" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCQ9wZFhCOI1GHpp77XsxOow" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
